@@ -1,6 +1,7 @@
 # max-min<br>
 Java Eclipse<br>
 ## max for문<br>
+### 매서드(method)<br>
 
 package 자바;
 
@@ -40,6 +41,7 @@ public class 순서도 {
 ![image](https://user-images.githubusercontent.com/126844692/223636557-7facb484-8396-4d1e-9da8-ed59d66969bc.png)
 
 ## min for문<br>
+### 아규먼트(argument)<br>
 
 package 자바;
 
